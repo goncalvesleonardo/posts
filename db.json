@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "date": "31012020",
+      "assunto": "Reunião proxima segunda",
+      "detalhe": "bom dia, estamos marcando nossa reunião para a proxima segunda feira dia 14/02/2022"
+    },
+    {
+      "id": 2,
+      "date": "30022023",
+      "assunto": "Festa de lançamento proxima coleção",
+      "detalhe": "nossa festa de aniversario marcada para dia 01/05/2022"
+    },
+    {
+      "id": 3,
+      "date": "24052024",
+      "assunto": "Viagem ferias",
+      "detalhe": "viagem da familia para rio de janeiro"
+    }
+  ]
+}

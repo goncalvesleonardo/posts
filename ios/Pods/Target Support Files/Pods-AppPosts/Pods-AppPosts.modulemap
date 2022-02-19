@@ -1,0 +1,6 @@
+module Pods_AppPosts {
+  umbrella header "Pods-AppPosts-umbrella.h"
+
+  export *
+  module * { export * }
+}
